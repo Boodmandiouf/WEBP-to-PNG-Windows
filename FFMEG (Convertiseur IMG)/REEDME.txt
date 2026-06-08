@@ -1,0 +1,3 @@
+Installation Windows via PowerShell :
+
+winget install "FFmpeg (Essentials Build)"
